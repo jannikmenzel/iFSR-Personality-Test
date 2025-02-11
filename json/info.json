@@ -1,0 +1,26 @@
+{
+  "Informatik B.Sc": {
+    "info": "Informatik B.Sc ist ein grundständiger Studiengang, der sich mit den Kernbereichen der Informatik beschäftigt, darunter Programmierung, Datenbanken und Softwareentwicklung.",
+    "details": "Hier stehen weitere Details."
+  },
+  "Informatik Diplom": {
+    "info": "Das Informatik Diplom bietet eine tiefgehende Auseinandersetzung mit den theoretischen Grundlagen und der praktischen Anwendung von Informatiksystemen.",
+    "details": "Hier stehen weitere Details."
+  },
+  "Angewandte Informatik": {
+    "info": "Angewandte Informatik fokussiert sich auf die praktische Anwendung von Informatiktechnologien in verschiedenen Branchen.",
+    "details": "Hier stehen weitere Details."
+  },
+  "Wirtschaftsinformatik": {
+    "info": "Wirtschaftsinformatik kombiniert Informatik mit betriebswirtschaftlichem Wissen und bereitet dich auf Rollen im IT-Management vor.",
+    "details": "Hier stehen weitere Details."
+  },
+  "Informatik Lehramt": {
+    "info": "Informatik Lehramt bereitet auf die Tätigkeit als Lehrer in Informatik an Schulen vor und verbindet Didaktik mit Informatik.",
+    "details": "Hier stehen weitere Details."
+  },
+  "Angewandte Informatik - Medizin": {
+    "info": "In diesem Studiengang wird Informatik angewendet, um Probleme im Bereich der Medizin zu lösen, von der Patientendatenanalyse bis hin zu medizinischer Softwareentwicklung.",
+    "details": "Hier stehen weitere Details."
+  }
+}

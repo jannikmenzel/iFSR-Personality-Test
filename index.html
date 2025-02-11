@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iFSR Persönlichkeitstest</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="assets/favicon.svg">
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="index.html">Fachschaftsrat Informatik</a>
+        <img src="assets/icons/icon.png" alt="Logo">
+    </div>
+</nav>
+
+<!-- Header -->
+<header class="hero-section text-center text-light">
+    <div class="container py-5">
+        <h1 class="display-3">iFSR Persönlichkeitstest</h1>
+        <p class="lead">Finde heraus, welcher <span class="highlight-name">Studiengang an der Fakultät Informatik</span> am besten zu dir passt.</p>
+    </div>
+
+    <!-- Social Media Links -->
+    <div class="social-links d-flex justify-content-center align-items-center gap-3">
+        <a href="https://www.instagram.com/ifsrde" class="text-decoration-none text-light" target="_blank">
+            <img src="assets/icons/instagram.svg" alt="Instagram" width="50">
+        </a>
+        <a href="https://t.me/s/ifsrde" class="text-decoration-none text-light" target="_blank">
+            <img src="assets/icons/telegram.svg" alt="Telegram" width="50">
+        </a>
+        <a href="https://github.com/fsr" class="text-decoration-none text-light" target="_blank">
+            <img src="assets/icons/github.svg" alt="GitHub" width="50">
+        </a>
+        <a href="https://toot.kif.rocks/@iFSR" class="text-decoration-none text-light" target="_blank">
+            <img src="assets/icons/mastodon.svg" alt="Mastodon" width="50">
+        </a>
+        <a href="https://discord.com/invite/639kX4tNg4" class="text-decoration-none text-light" target="_blank">
+            <img src="assets/icons/discord.svg" alt="Discord" width="50">
+        </a>
+    </div>
+</header>
+
+<!-- Fragen -->
+<section>
+    <div class="container py-5">
+        <div id="fragenContainer"></div>
+
+        <!-- Buttons -->
+        <div class="d-flex justify-content-center mt-4 gap-3">
+            <button id="resetButton" class="btn btn-secondary" onclick="resetForm()">Reset</button>
+            <button id="evaluateButton" class="btn btn-primary" onclick="evaluateTest()">Auswerten</button>
+        </div>
+    </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "frage1",
+    "frage": "Welche Themen interessieren dich am meisten?",
+    "optionen": [
+      {
+        "wert": "E-technik",
+        "text": "Elektronik / E-Technik",
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 2 }
+      },
+      {
+        "wert": "BWL",
+        "text": "Betriebswirtschaftslehre (BWL)",
+        "punkte": { "Wirtschaftsinformatik": 2 }
+      },
+      {
+        "wert": "Praxis",
+        "text": "Praxisorientierte Themen",
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 2, "Informatik Lehramt": 1 }
+      },
+      {
+        "wert": "Theorie",
+        "text": "Theoretische und mathematische Themen",
+        "punkte": { "Informatik B.Sc": 2, "Informatik Diplom": 2, "Informatik Lehramt": 1 }
+      }
+    ]
+  },
+  {
+    "id": "frage2",
+    "frage": "Wie arbeitest du am liebsten?",
+    "optionen": [
+      {
+        "wert": "Praxis",
+        "text": "Ich bevorzuge praktische Arbeiten und Projekte",
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 2, "Informatik Lehramt": 1 }
+      },
+      {
+        "wert": "Theorie",
+        "text": "Ich bevorzuge theoretische und konzeptionelle Arbeit",
+        "punkte": { "Informatik B.Sc": 2, "Informatik Diplom": 2, "Informatik Lehramt": 2 }
+      }
+    ]
+  },
+  {
+    "id": "frage3",
+    "frage": "Kannst du dir vorstellen, länger als 3 Jahre zu studieren (Master)?",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, ich habe Interesse an einem Masterstudium",
+        "punkte": { "Informatik B.Sc": 2, "Informatik Diplom": 3, "Informatik Lehramt": 2 }
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, ein Bachelor reicht mir",
+        "punkte": { "Angewandte Informatik": 1 }
+      }
+    ]
+  },
+  {
+    "id": "frage4",
+    "frage": "Möchtest du einen Nebenjob während deines Studiums?",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, ein Nebenjob ist mir wichtig",
+        "punkte": { "Angewandte Informatik": 1, "Informatik Lehramt": 1 }
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, ich möchte mich voll auf mein Studium konzentrieren",
+        "punkte": { "Informatik B.Sc": 1, "Informatik Diplom": 2 }
+      }
+    ]
+  },
+  {
+    "id": "frage5",
+    "frage": "Hast du Interessen in Bereichen wie Medizin, Psychologie, BWL oder Geowissenschaften?",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, ich interessiere mich für diese Bereiche",
+        "punkte": { "Angewandte Informatik - Medizin": 2, "Wirtschaftsinformatik": 2 }
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, Informatik ist mein Hauptinteresse",
+        "punkte": { "Informatik B.Sc": 2, "Informatik Diplom": 2 }
+      }
+    ]
+  },
+  {
+    "id": "frage6",
+    "frage": "Möchtest du einen Beruf ausüben, indem du Computersoftware anwendest?",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, das kann ich mir gut vorstellen",
+        "punkte": { "Wirtschaftsinformatik": 2, "Angewandte Informatik": 2 }
+      },
+      {
+        "wert": "Eher ja",
+        "text": "Eher ja, aber nicht ausschließlich",
+        "punkte": { "Wirtschaftsinformatik": 1, "Informatik Lehramt": 1 }
+      },
+      {
+        "wert": "Neutral",
+        "text": "Ich bin mir unsicher",
+        "punkte": {}
+      },
+      {
+        "wert": "Eher nein",
+        "text": "Eher nein, das interessiert mich weniger",
+        "punkte": { "Informatik B.Sc": -1, "Informatik Diplom": -1 }
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, das ist nichts für mich",
+        "punkte": { "Informatik B.Sc": -2, "Informatik Diplom": -2 }
+      }
+    ]
+  },
+  {
+    "id": "frage7",
+    "frage": "Möchtest du einen Beruf ausüben, indem du Computersoftware nach Entwürfen anderer schreibst?",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, das kann ich mir gut vorstellen",
+        "punkte": { "Informatik B.Sc": 1 }
+      },
+      {
+        "wert": "Eher ja",
+        "text": "Eher ja, aber nicht ausschließlich",
+        "punkte": { "Informatik B.Sc": 1 }
+      },
+      {
+        "wert": "Neutral",
+        "text": "Ich bin mir unsicher",
+        "punkte": {}
+      },
+      {
+        "wert": "Eher nein",
+        "text": "Eher nein, das interessiert mich weniger",
+        "punkte": { "Angewandte Informatik": -1 }
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, das ist nichts für mich",
+        "punkte": { "Angewandte Informatik": -2 }
+      }
+    ]
+  },
+  {
+    "id": "frage8",
+    "frage": "Möchtest du einen Beruf ausüben, indem du Entwürfe für Computersoftware anfertigst?",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, das kann ich mir gut vorstellen",
+        "punkte": { "Informatik B.Sc": 2 }
+      },
+      {
+        "wert": "Eher ja",
+        "text": "Eher ja, aber nicht ausschließlich",
+        "punkte": { "Informatik B.Sc": 1 }
+      },
+      {
+        "wert": "Neutral",
+        "text": "Ich bin mir unsicher",
+        "punkte": {}
+      },
+      {
+        "wert": "Eher nein",
+        "text": "Eher nein, das interessiert mich weniger",
+        "punkte": { "Angewandte Informatik": -1 }
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, das ist nichts für mich",
+        "punkte": { "Angewandte Informatik": -2 }
+      }
+    ]
+  },
+  {
+    "id": "frage9",
+    "frage": "Kannst du dir vorstellen, Informatik mit Didaktik (Lehre) zu kombinieren?",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, das interessiert mich sehr",
+        "punkte": { "Informatik B.Sc": 2, "Informatik Lehramt": 1 }
+      },
+      {
+        "wert": "Eher ja",
+        "text": "Eher ja, aber nicht ausschließlich",
+        "punkte": { "Informatik B.Sc": 1 }
+      },
+      {
+        "wert": "Neutral",
+        "text": "Ich bin mir unsicher",
+        "punkte": {}
+      },
+      {
+        "wert": "Eher nein",
+        "text": "Eher nein, das interessiert mich weniger",
+        "punkte": { "Informatik Lehramt": -1 }
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, das ist nichts für mich",
+        "punkte": { "Informatik Lehramt": -2 }
+      }
+    ]
+  },
+  {
+    "id": "frage10",
+    "frage": "Bevorzugst du ein Studium, das sich mit praktischen Projekten und realen Anwendungen befasst?",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, das ist mir sehr wichtig",
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 3 }
+      },
+      {
+        "wert": "Eher ja",
+        "text": "Eher ja, aber ich schätze auch theoretische Anteile",
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 2 }
+      },
+      {
+        "wert": "Neutral",
+        "text": "Ich bin mir unsicher",
+        "punkte": {}
+      },
+      {
+        "wert": "Eher nein",
+        "text": "Eher nein, ich bevorzuge mehr Theorie",
+        "punkte": { "Informatik Diplom": 1 }
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, das ist nicht mein Schwerpunkt",
+        "punkte": { "Informatik Diplom": 2 }
+      }
+    ]
+  }
+]
