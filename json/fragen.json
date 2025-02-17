@@ -11,7 +11,7 @@
       {
         "wert": "BWL",
         "text": "Betriebswirtschaftslehre (BWL)",
-        "punkte": { "Wirtschaftsinformatik": 3,  "Informatik Diplom":2, "Informatik Lehramt":1}
+        "punkte": { "Wirtschaftsinformatik": 3,  "Informatik Diplom":2, "Informatik Lehramt":1, "Master of Desaster":1}
       },
       {
         "wert": "Praxis",
@@ -49,6 +49,11 @@
         "wert": "Ja",
         "text": "Ja, ich habe Interesse an einem Masterstudium",
         "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":3, "Informationssystemtechnik":2, "Wirtschaftsinformatik":2, "Informatik Lehramt":2}
+      },
+      {
+        "wert": "Ja",
+        "text": "Ja, ich habe Interesse an einem Masterstudium, aber NICHT an der TU Dresden",
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":-2, "Informationssystemtechnik":-2, "Wirtschaftsinformatik":-2, "Informatik Lehramt":-3}
       },
       {
         "wert": "Nein",
@@ -249,8 +254,34 @@
       }
     ]
   },
-    {
+  {
     "id": "frage11",
+    "frage": "Interessierst du dich für Frontend Entwicklung und/oder Barreirefreiheit",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, sehr",
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":0 }
+      },
+      {
+        "wert": "Eher ja",
+        "text": "Ja, aber nicht hauptsächlich",
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":0 }
+      },
+      {
+        "wert": "Neutral",
+        "text": "Ich bin mir unsicher",
+        "punkte": {}
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, das ist nicht mein Schwerpunkt",
+        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik – Medieninformatik": -2, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":0, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
+      }
+    ]
+  },
+    {
+    "id": "frage12",
     "frage": "Würdest du später gerne eine akademische Lufbahn einschlagen - also an der Uni forschen und lehren?",
     "optionen": [
       {
@@ -271,7 +302,7 @@
     ]
   },
    {
-    "id": "frage12",
+    "id": "frage13",
     "frage": "Wie gut kannst du englisch sprechen?",
     "optionen": [
       {
