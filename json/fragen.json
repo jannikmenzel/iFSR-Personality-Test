@@ -6,22 +6,22 @@
       {
         "wert": "E-technik",
         "text": "Elektronik / E-Technik",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":2, "Wirtschaftsinformatik":0, "Informatik Lehramt":0}
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":3, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1}
       },
       {
         "wert": "BWL",
         "text": "Betriebswirtschaftslehre (BWL)",
-        "punkte": { "Wirtschaftsinformatik": 3,  "Informatik Diplom":2, "Informatik Lehramt":1}
+        "punkte": { "Wirtschaftsinformatik": 3,  "Informatik Diplom":2, "Informatik Lehramt":1, "Master of Desaster":1}
       },
       {
         "wert": "Praxis",
         "text": "Praxisorientierte Themen",
-        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":1}
+        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":1}
       },
       {
         "wert": "Theorie",
         "text": "Theoretische und mathematische Themen",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1}
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1}
       }
     ]
   },
@@ -32,12 +32,12 @@
       {
         "wert": "Praxis",
         "text": "Ich bevorzuge praktische Arbeiten und Projekte",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":0}
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":1, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0}
       },
       {
         "wert": "Theorie",
         "text": "Ich bevorzuge theoretische und konzeptionelle Arbeit",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":2, "Wirtschaftsinformatik":1, "Informatik Lehramt":0}
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":2, "Wirtschaftsinformatik":1, "Informatik Lehramt":0}
       }
     ]
   },
@@ -48,12 +48,17 @@
       {
         "wert": "Ja",
         "text": "Ja, ich habe Interesse an einem Masterstudium",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":3, "Informationssystemtechnik":2, "Wirtschaftsinformatik":2, "Informatik Lehramt":2}
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":3, "Informationssystemtechnik":2, "Wirtschaftsinformatik":2, "Informatik Lehramt":2}
+      },
+      {
+        "wert": "Ja",
+        "text": "Ja, ich habe Interesse an einem Masterstudium, aber NICHT an der TU Dresden",
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":-2, "Informationssystemtechnik":-2, "Wirtschaftsinformatik":-2, "Informatik Lehramt":-3}
       },
       {
         "wert": "Nein",
         "text": "Nein, ein Bachelor reicht mir",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":-2, "Informationssystemtechnik":-2, "Wirtschaftsinformatik":-2, "Informatik Lehramt":-3 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":-2, "Informationssystemtechnik":-2, "Wirtschaftsinformatik":-2, "Informatik Lehramt":-3 }
       }
     ]
   },
@@ -64,12 +69,12 @@
       {
         "wert": "Ja",
         "text": "Ja, ein Nebenjob ist mir wichtig",
-        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik – Medieninformatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":-1 }
       },
       {
         "wert": "Nein",
         "text": "Nein, ich möchte mich voll auf mein Studium konzentrieren",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":-1, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":-1, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1 }
       }
     ]
   },
@@ -80,7 +85,7 @@
       {
         "wert": "JaMedic",
         "text": "Ja, ich interessiere mich Medizin",
-        "punkte": { "Angewandte Informatik - Medizin": 2, "Informatik Diplom": 1}
+        "punkte": { "Angewandte Informatik - Medizin": 3, "Informatik Diplom": 1}
       },
       {
         "wert": "JaNf",
@@ -90,7 +95,7 @@
       {
         "wert": "Nein",
         "text": "Nein, Informatik ist mein Hauptinteresse",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": -1, "Informatik Diplom":0, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": -1, "Informatik Diplom":0, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1 }
       }
     ]
   },
@@ -101,12 +106,12 @@
       {
         "wert": "Ja",
         "text": "Ja, das kann ich mir gut vorstellen",
-        "punkte": { "Informatik B.Sc": -1, "Angewandte Informatik": -1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":-1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":2, "Informatik Lehramt":2 }
+        "punkte": { "Informatik B.Sc": -1, "Angewandte Informatik – Medieninformatik": -1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":-1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":2, "Informatik Lehramt":2 }
       },
       {
         "wert": "Eher ja",
         "text": "Eher ja, aber nicht ausschließlich",
-        "punkte": { "Informatik B.Sc": -1, "Angewandte Informatik": -1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":-1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":2, "Informatik Lehramt":2 }
+        "punkte": { "Informatik B.Sc": -1, "Angewandte Informatik – Medieninformatik": -1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":-1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":2, "Informatik Lehramt":2 }
       },
       {
         "wert": "Neutral",
@@ -116,12 +121,12 @@
       {
         "wert": "Eher nein",
         "text": "Eher nein, das interessiert mich weniger",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
       },
       {
         "wert": "Nein",
         "text": "Nein, das ist nichts für mich",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1 }
       }
     ]
   },
@@ -132,12 +137,12 @@
       {
         "wert": "Ja",
         "text": "Ja, das kann ich mir gut vorstellen",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
       },
       {
         "wert": "Eher ja",
         "text": "Eher ja, aber nicht ausschließlich",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":1 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":1 }
       },
       {
         "wert": "Neutral",
@@ -147,12 +152,12 @@
       {
         "wert": "Eher nein",
         "text": "Eher nein, das interessiert mich weniger",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":0 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":0 }
       },
       {
         "wert": "Nein",
         "text": "Nein, das ist nichts für mich",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":2, "Informationssystemtechnik":2, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":2, "Informationssystemtechnik":2, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1 }
       }
     ]
   },
@@ -163,12 +168,12 @@
       {
         "wert": "Ja",
         "text": "Ja, das kann ich mir gut vorstellen",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 2, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":0 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":0 }
       },
       {
         "wert": "Eher ja",
         "text": "Eher ja, aber nicht ausschließlich",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":1 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":1, "Informatik Lehramt":1 }
       },
       {
         "wert": "Neutral",
@@ -178,12 +183,12 @@
       {
         "wert": "Eher nein",
         "text": "Eher nein, das interessiert mich weniger",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":0 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":0 }
       },
       {
         "wert": "Nein",
         "text": "Nein, das ist nichts für mich",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":-2, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":-2, "Informatik Lehramt":-1 }
       }
     ]
   },
@@ -194,12 +199,12 @@
       {
         "wert": "Ja",
         "text": "Ja, das interessiert mich sehr",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":3 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":3 }
       },
       {
         "wert": "Eher ja",
         "text": "Eher ja, aber nicht ausschließlich",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":2 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":2 }
       },
       {
         "wert": "Neutral",
@@ -209,12 +214,12 @@
       {
         "wert": "Eher nein",
         "text": "Eher nein, das interessiert mich weniger",
-        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":0, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik – Medieninformatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":0, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1 }
       },
       {
         "wert": "Nein",
         "text": "Nein, das ist nichts für mich",
-        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":0, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":-2 }
+        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik – Medieninformatik": 0, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":0, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":-2 }
       }
     ]
   },
@@ -225,12 +230,12 @@
       {
         "wert": "Ja",
         "text": "Ja, das ist mir sehr wichtig",
-        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
+        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
       },
       {
         "wert": "Eher ja",
         "text": "Eher ja, aber ich schätze auch theoretische Anteile",
-        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik": 2, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":1 }
+        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":1 }
       },
       {
         "wert": "Neutral",
@@ -240,28 +245,54 @@
       {
         "wert": "Eher nein",
         "text": "Eher nein, ich bevorzuge mehr Theorie",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
       },
       {
         "wert": "Nein",
         "text": "Nein, das ist nicht mein Schwerpunkt",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 0, "Angewandte Informatik - Medizin": -1, "Informatik Diplom":2, "Informationssystemtechnik":2, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 0, "Angewandte Informatik - Medizin": -1, "Informatik Diplom":2, "Informationssystemtechnik":2, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1 }
+      }
+    ]
+  },
+  {
+    "id": "frage11",
+    "frage": "Interessierst du dich für Frontend Entwicklung und/oder Barreirefreiheit",
+    "optionen": [
+      {
+        "wert": "Ja",
+        "text": "Ja, sehr",
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":1, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":0 }
+      },
+      {
+        "wert": "Eher ja",
+        "text": "Ja, aber nicht hauptsächlich",
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":-1, "Informatik Lehramt":0 }
+      },
+      {
+        "wert": "Neutral",
+        "text": "Ich bin mir unsicher",
+        "punkte": {}
+      },
+      {
+        "wert": "Nein",
+        "text": "Nein, das ist nicht mein Schwerpunkt",
+        "punkte": { "Informatik B.Sc": 0, "Angewandte Informatik – Medieninformatik": -2, "Angewandte Informatik - Medizin": 0, "Informatik Diplom":0, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
       }
     ]
   },
     {
-    "id": "frage11",
+    "id": "frage12",
     "frage": "Würdest du später gerne eine akademische Lufbahn einschlagen - also an der Uni forschen und lehren?",
     "optionen": [
       {
         "wert": "Ja",
         "text": "Ja, auf jeden Fall",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":-2 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":2, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":-2 }
       },
       {
         "wert": "Eherja",
         "text": "Vielleicht, das ist einer von mehreren Plänen.",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1 }
       },
       {
         "wert": "Ehernicht",
@@ -271,13 +302,13 @@
     ]
   },
    {
-    "id": "frage12",
+    "id": "frage13",
     "frage": "Wie gut kannst du englisch sprechen?",
     "optionen": [
       {
         "wert": "sehrgut",
         "text": "Sehr gut, damit hab ich kein Problem.",
-        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik": 0, "Angewandte Informatik - Medizin": -1, "Informatik Diplom":2, "Informationssystemtechnik":2, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 0, "Angewandte Informatik - Medizin": -1, "Informatik Diplom":2, "Informationssystemtechnik":2, "Wirtschaftsinformatik":0, "Informatik Lehramt":-1 }
       },
       {
         "wert": "gut",
@@ -287,7 +318,7 @@
       {
         "wert": "Negativ",
         "text": "Nicht gut, ich habe Schwierigkeiten, Sprachen zu lernen.",
-        "punkte": { "Informatik B.Sc": -1, "Angewandte Informatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
+        "punkte": { "Informatik B.Sc": -1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0 }
       }
     ]
   }
