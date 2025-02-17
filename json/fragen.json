@@ -6,7 +6,7 @@
       {
         "wert": "E-technik",
         "text": "Elektronik / E-Technik",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":2, "Wirtschaftsinformatik":0, "Informatik Lehramt":0}
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":1, "Informationssystemtechnik":3, "Wirtschaftsinformatik":-1, "Informatik Lehramt":-1}
       },
       {
         "wert": "BWL",
@@ -32,7 +32,7 @@
       {
         "wert": "Praxis",
         "text": "Ich bevorzuge praktische Arbeiten und Projekte",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":1, "Informationssystemtechnik":0, "Wirtschaftsinformatik":0, "Informatik Lehramt":0}
+        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 2, "Angewandte Informatik - Medizin": 2, "Informatik Diplom":1, "Informationssystemtechnik":-1, "Wirtschaftsinformatik":0, "Informatik Lehramt":0}
       },
       {
         "wert": "Theorie",
@@ -53,7 +53,7 @@
       {
         "wert": "Nein",
         "text": "Nein, ein Bachelor reicht mir",
-        "punkte": { "Informatik B.Sc": 1, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":-2, "Informationssystemtechnik":-2, "Wirtschaftsinformatik":-2, "Informatik Lehramt":-3 }
+        "punkte": { "Informatik B.Sc": 2, "Angewandte Informatik – Medieninformatik": 1, "Angewandte Informatik - Medizin": 1, "Informatik Diplom":-2, "Informationssystemtechnik":-2, "Wirtschaftsinformatik":-2, "Informatik Lehramt":-3 }
       }
     ]
   },
@@ -80,7 +80,7 @@
       {
         "wert": "JaMedic",
         "text": "Ja, ich interessiere mich Medizin",
-        "punkte": { "Angewandte Informatik - Medizin": 2, "Informatik Diplom": 1}
+        "punkte": { "Angewandte Informatik - Medizin": 3, "Informatik Diplom": 1}
       },
       {
         "wert": "JaNf",
